@@ -57,13 +57,13 @@ To run Lostinger locally, follow these steps:
     Set up your database and configure the backend to connect to it.
     Start the development server for the frontend:
    ```bash
-   cd frontend
+   cd front-end
    npm install
    npm start
 4. Start the backend server:
     Set up your database and configure the backend to connect to it.
     Start the development server for the frontend:
    ```bash
-   cd backend
+   cd back-end
    composer install
    php -S localhost:8000
