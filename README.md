@@ -1,8 +1,23 @@
-# Lostinger
+<h1 align=center>Lostinger</h1> 
 
 Lostinger is a community-driven platform designed to help individuals recover lost items and assist others in reuniting with their belongings.
 
-[![Build Status](https://travis-ci.org/your-username/lostinger.svg?branch=master)](https://travis-ci.org/your-username/lostinger)
+![demo](https://github.com/maroine619/lostinger/blob/main/demo.gif?raw=true)
+<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/bookworm-light/](https://lostingerapp.000webhostapp.com" rel="nofollow">👀Demo</a></h2>
+
+## UML
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center;">
+    <img src="https://github.com/maroine619/lostinger/blob/main/UML/use%20case%20lostings%20app.jpg?raw=true" alt="Image 1">
+    <p align="center">use case</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/maroine619/lostinger/blob/main/UML/diagrame%20de%20class.jpg?raw=true" alt="Image 2">
+    <p align="center">class diagram</p>
+  </div>
+</div>
+
 
 ## Features
 
@@ -16,16 +31,16 @@ Lostinger is a community-driven platform designed to help individuals recover lo
 
 ### Frontend:
 
-- React: A JavaScript library for building user interfaces.
-- Bootstrap: A front-end framework for designing responsive web interfaces.
-- JWT (JSON Web Tokens): A standard for secure authentication and authorization.
+- React
+- Bootstrap
+- JWT (JSON Web Tokens):
 
 ### Backend:
 
-- PHP: A server-side scripting language for server-side logic.
-- MySQL: An open-source relational database management system for data storage.
-- Apache: A popular web server software for serving web content.
-- RESTful API: A style for designing web services that use HTTP methods.
+- PHP
+- MySQL
+- Apache:
+- RESTful API
 
 ## Getting Started
 
