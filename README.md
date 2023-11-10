@@ -3,7 +3,7 @@
 Lostinger is a community-driven platform designed to help individuals recover lost items and assist others in reuniting with their belongings.
 
 ![demo](https://github.com/maroine619/lostinger/blob/main/demo.gif?raw=true)
-<h2 align="center"><a target="_blank" href="https://demo.underBuilding.com" rel="nofollow">👀Demo</a></h2>
+<h2 align="center"><a target="_blank" href="https://lostingerapp.000webhostapp.com/" rel="nofollow">👀Demo</a></h2>
 
 ## UML
 
